@@ -18,7 +18,11 @@
    - to stage the changes for next commit
 
 5. git commit
-   - To commit the changes in github repository
+
+   - To commit the changes in the branch
+
+6. git push
+   - to commit local changes into remote repo
 
 Some other commands to work in terminal
 
