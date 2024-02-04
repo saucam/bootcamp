@@ -1,27 +1,27 @@
 # Introduction to Git
 
-1. git config
+1. `git config`
 
    - The git config command is used to configure various aspects of Git, including user information, repository settings, and more.
      For Example:git config --list,git config user.name etc
 
-2. git clone "https:....."
+2. `git clone`
 
    - Used for cloning repo locally
 
-3. git status
+3. `git status`
 
    - to know the branch is up to date or not
 
-4. git add
+4. `git add`
 
    - to stage the changes for next commit
 
-5. git commit
+5. `git commit`
 
    - To commit the changes in the branch
 
-6. git push
+6. `git push`
    - to commit local changes into remote repo
 
 Some other commands to work in terminal
