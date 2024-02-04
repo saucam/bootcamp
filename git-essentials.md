@@ -2,10 +2,11 @@
 
 1. `git config`
 
-   - The git config command is used to configure various aspects of Git, including user information, repository settings, and more.
-     For Example:git config --list,git config user.name etc
+   - The git config command is used to configure various aspects of Git, including user information,repository settings, and more.
+     - For Example:
+       `git config --global user.name "Your Name"`
 
-2. `git clone`
+2. `git clone <repository-url>`
 
    - Used for cloning repo locally
 
@@ -13,22 +14,25 @@
 
    - to know the branch is up to date or not
 
-4. `git add`
+4. `git add <file(s)> `
 
    - to stage the changes for next commit
 
-5. `git commit`
+5. `git commit -m "Your commit message here"`
 
-   - To commit the changes in the branch
+   - To commit the changes in the branch locally
 
-6. `git push`
+6. `git push origin <branch-name>`
+
    - to commit local changes into remote repo
 
-Some other commands to work in terminal
+7. `git pull origin <branch-name>`
 
-1. ls
-   - to show the list of files and folder
-2. Create Hyperlink
-   - [Text] (path/to/your/file)
-3. cd
-   - to move inside the folder
+   - to fetch and merge changes from remote repo
+
+8. `git merge <branch-name>`
+
+   - Merge changes from one branch to another
+
+9. `git branch <branch-name>`
+   - create a new brach
