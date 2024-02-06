@@ -11,6 +11,14 @@ Then we will go through statistical inference and its cousins data mining and ma
 
 ![](Probability_and_Inference.png)
 
+
+
+
+[2]Machine learning is the study of algorithms that can learn from experience. As a machine
+learning algorithm accumulates more experience, typically in the form of observational
+data or interactions with an environment, its performance improves
+
 #### References
 
 1. Larry Wasserman - All of Statistics 
+2. Dive into Deep Learning
